@@ -1,0 +1,15 @@
+# Dependencias de Node y empaquetado del Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# Compilados y temporales de C# / .NET
+backend/bin/
+backend/obj/
+backend/.vs/
+
+# Temporales del sistema y editores
+.DS_Store
+Thumbs.db
+*.user
